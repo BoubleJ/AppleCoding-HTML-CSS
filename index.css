@@ -1,0 +1,85 @@
+.boxbox {
+    width: 900px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.leftbox {
+    width: 80%;
+    height: 100%;
+   
+ float: left;
+}
+
+.rightbox{
+    width: 20%;
+    height: 100%;
+    
+    float: left;
+
+}
+
+.wordtop {
+    width: 100%;
+    height: 30%;
+    
+
+
+   
+}
+
+.wordtopbox {
+    margin-top: 3px;
+    float: left;
+    
+}
+
+.imgleft {
+    width:50px ;
+    height:50px;
+    float: left;
+    border-radius: 70%;
+    margin-right: 6px;
+}
+
+.subject {
+    font-weight :700;
+    margin-bottom: 3px;
+}
+
+.real {
+    font-size: 14px ;
+    line-height : 23px
+}
+
+
+.navbar2 li{
+    display: inline-block;
+    text-align: center;
+    background-color: #eee;
+    width: 70px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navbar{
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+
+.navbar:active{
+    color: blue;
+}
+
+
+
+.navbar_color{
+    font-size: 16px;
+    text-decoration: none;
+    color: red
+}
